@@ -1,0 +1,37 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+    background-color: #DDEEAA;
+}
+
+.titre{
+    height: 20%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+   padding: 5px;
+   background-color: #8FD335;
+   width: 99%;
+   display: flex;
+   justify-content: space-around;
+   color: aliceblue;
+}
+
+.logo{
+    margin-top: 60px;
+}
+
+div{
+    background-color: white;
+}
+
+.footer{
+    color: #8FD335;
+    text-align: end;
+}
+
